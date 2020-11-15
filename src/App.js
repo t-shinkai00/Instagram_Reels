@@ -16,14 +16,14 @@ function App() {
   return (
     //BEM naming convention
     <div className="app">
-      <h1>Hey clever programmer, Let's build an IG Reels Clone!</h1>
+      {/* <h1>Hey clever programmer, Let's build an IG Reels Clone!</h1> */}
       <div className="app__top">
         <img
           className="app__logo"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"
           alt=""
         />
-        <h1>Reels</h1>
+        {/* <h1>Reels</h1> */}
       </div>
       <div className="app__videos">
         {/* Container of app_videos(scrollable container) */}

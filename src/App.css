@@ -10,7 +10,7 @@ html{
 }
 
 .app__top{
-  /* margin-top: -150px; */
+  /* margin-bottom: -100px; */
 }
 
 .app__top>h1{
@@ -24,7 +24,7 @@ html{
 
 .app__videos{
 position: relative;
-height:65vh;
+height:80vh;
 background-color: white;
 width: 70%;
 border-radius: 20px;
