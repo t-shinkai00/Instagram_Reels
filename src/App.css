@@ -9,9 +9,9 @@ html{
   background-color: black;
 }
 
-.app__top{
-  /* margin-bottom: -100px; */
-}
+/* .app__top{
+  margin-bottom: -100px;
+} */
 
 .app__top>h1{
   text-align: center;
